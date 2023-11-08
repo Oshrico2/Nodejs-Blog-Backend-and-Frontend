@@ -38,4 +38,3 @@ To run the project, follow these steps:
 4. Open a web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the frontend web app.
 
 
-Open a web browser and navigate to http://localhost:3000 to view the frontend web app.
